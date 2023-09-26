@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Addingtocart/static/css/main.2bc1bbfd.css",
+    "main.js": "/Addingtocart/static/js/main.c39716a8.js",
+    "static/media/logo.svg": "/Addingtocart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Addingtocart/index.html",
+    "main.2bc1bbfd.css.map": "/Addingtocart/static/css/main.2bc1bbfd.css.map",
+    "main.c39716a8.js.map": "/Addingtocart/static/js/main.c39716a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc1bbfd.css",
+    "static/js/main.c39716a8.js"
+  ]
+}
